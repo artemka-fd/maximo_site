@@ -8,7 +8,7 @@ function App() {
     <>
     <Header />
     <div className="wrapper mx-auto max-w-screen-lg">
-      {/* functional buttons */}
+      {/* functional buttons hfdgjdfgjfgjfd */}
       <Catalogue />
       {/* <Textview /> */}
     </div>
